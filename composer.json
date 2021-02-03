@@ -1,5 +1,5 @@
 {
-    "name": "pion/smart-emailing-v3",
+    "name": "ebrana/smart-emailing-v3",
     "description": "Wrapper for SmartEmailing API",
     "type": "library",
     "license": "MIT",
