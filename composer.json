@@ -22,7 +22,7 @@
         "SmartEmailing\\v3\\Tests\\": "tests"
       }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.2",
         "guzzlehttp/guzzle": ">=6.2",
